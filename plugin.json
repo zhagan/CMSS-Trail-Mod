@@ -1,0 +1,23 @@
+{
+  "slug": "COTrails",
+  "name": "COTrails",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "CMSS",
+  "author": "Zack Hagan",
+  "authorEmail": "zhagan@gmail.com",
+  "authorUrl": "zackhagan.com",
+  "pluginUrl": "zackhagan.com/COTrails",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "COTrails",
+      "name": "Colorado Trails",
+      "description": "A plugin that generates cv control from gpx files",
+      "tags": ["Utility"]
+    }
+  ]
+}
